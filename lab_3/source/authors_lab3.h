@@ -1,0 +1,16 @@
+#pragma once
+
+#define AUTHORS_A "David Abdou, Abdelrahman Kaoud, Jan Oliver Wölbing"
+#define AUTHORS_B "David Abdou, Abdelrahman Kaoud, Jan Oliver Wölbing"
+#define AUTHORS_C "David Abdou, Abdelrahman Kaoud, Jan Oliver Wölbing"
+#define AUTHORS_D "David Abdou, Abdelrahman Kaoud, Jan Oliver Wölbing"
+#define AUTHORS_E "David Abdou, Abdelrahman Kaoud, Jan Oliver Wölbing"
+#define AUTHORS_F "David Abdou, Abdelrahman Kaoud, Jan Oliver Wölbing"
+#define AUTHORS_G "David Abdou, Abdelrahman Kaoud, Jan Oliver Wölbing"
+#define AUTHORS_H "David Abdou, Abdelrahman Kaoud, Jan Oliver Wölbing"
+#define AUTHORS_I "David Abdou, Abdelrahman Kaoud, Jan Oliver Wölbing"
+#define AUTHORS_J "David Abdou, Abdelrahman Kaoud, Jan Oliver Wölbing"
+#define AUTHORS_K "David Abdou, Abdelrahman Kaoud, Jan Oliver Wölbing"
+#define AUTHORS_L "David Abdou, Abdelrahman Kaoud, Jan Oliver Wölbing"
+#define AUTHORS_M "David Abdou, Abdelrahman Kaoud, Jan Oliver Wölbing"
+#define AUTHORS_N "David Abdou, Abdelrahman Kaoud, Jan Oliver Wölbing"

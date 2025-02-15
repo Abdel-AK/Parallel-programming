@@ -1,0 +1,5 @@
+build
+cmake-*
+.vscode
+/output/scratch
+universe.txt
